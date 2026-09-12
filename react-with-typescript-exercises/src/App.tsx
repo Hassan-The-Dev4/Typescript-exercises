@@ -1,8 +1,8 @@
-import Exercise7 from './exercise-7/Exercise7.tsx'
+import Exercise8 from './exercise-8/Exercise8.tsx'
 
 function App() {
   return (
-    <Exercise7 />
+    <Exercise8 />
   )
 }
 
