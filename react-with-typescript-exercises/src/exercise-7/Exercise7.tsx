@@ -81,24 +81,24 @@ export function Exercise7() {
       <h1>Exercise 7</h1>
 
       <section>
-        <h2>1. Welcome Component</h2>
+        <h2>Welcome Component</h2>
         <Welcome username="Hassan" isPremium={true} />
         <Welcome username="GuestUser" isPremium={false} />
       </section>
 
       <section>
-        <h2>2. ProductCard Component</h2>
+        <h2>ProductCard Component</h2>
         <ProductCard name="Laptop" price={999} description="High performance laptop" />
         <ProductCard name="Mouse" price={25} />
       </section>
 
       <section>
-        <h2>3. Rebuild with 'type' instead of 'interface'</h2>
+        <h2>Rebuild with 'type' instead of 'interface'</h2>
         <ProductCardWithType name="Keyboard" price={75} description="Mechanical keyboard" />
       </section>
 
       <section>
-        <h2>4. Break it on Purpose</h2>
+        <h2>Break it on Purpose</h2>
         <BreakItOnPurpose />
       </section>
     </div>
