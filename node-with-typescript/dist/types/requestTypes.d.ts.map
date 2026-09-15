@@ -1,0 +1,1 @@
+{"version":3,"file":"requestTypes.d.ts","sourceRoot":"","sources":["../../src/types/requestTypes.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,SAAS,CAAC;AAEvC,MAAM,WAAW,YAAY;IAC3B,IAAI,EAAE,MAAM,CAAC;CACd;AAED,MAAM,MAAM,cAAc,GAAG,OAAO,CAClC,EAAE,EACF,EAAE,EACF,EAAE,EACF,YAAY,CACb,CAAC"}
